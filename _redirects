@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://earopub.netlify.com/* https://pub.earo.me/:splat 301!
