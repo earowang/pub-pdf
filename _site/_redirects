@@ -1,2 +1,2 @@
 # Redirect default Netlify subdomain to primary domain
-https://earopdf.netlify.com/* https://pdf.earo.me/:splat 301!
+https://earopdf.netlify.app/* https://pdf.earo.me/:splat 301!
